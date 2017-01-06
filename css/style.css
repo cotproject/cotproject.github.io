@@ -1,0 +1,38 @@
+body {
+    /*font-family: 'Roboto', sans-serif;*/
+    padding-top: 20px;
+    padding-bottom:50px;
+}
+
+.center-row {
+    display:table;
+    margin-bottom: 40px;
+}
+.center {
+    display:table-cell;
+    vertical-align:middle;
+    float:none;
+}
+
+.logo-participant {
+    height:60px;
+    margin-right:20px;
+}
+
+.bib-item {
+    margin-bottom: 15px;
+}
+
+.bib-title {
+    font-weight: bold;
+    /*font-style: italic;*/
+}
+
+.bib-in {
+    font-style: italic;
+    color:#a94442;
+}
+
+.no-top {
+    margin-top:0;
+}
